@@ -1,4 +1,4 @@
-# Olá 👋
+# Hey, I´m here! 👋
 
 Atualmente estudando:
 - HTML
