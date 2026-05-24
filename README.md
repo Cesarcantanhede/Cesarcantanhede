@@ -3,6 +3,7 @@
 Atualmente estudando:
 - HTML
 - CSS
+- JavaScript
 - Git e GitHub
 - ADS (Análise e Desenvolvimento de Sistemas)
 
